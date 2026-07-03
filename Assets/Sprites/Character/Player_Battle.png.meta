@@ -1,0 +1,1399 @@
+fileFormatVersion: 2
+guid: 530bd740e8ee35a45a8d2f01f360dd13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6171756478463703557
+    second: Pixbattlers Defender Apolonia_0
+  - first:
+      213: -8619683206318261628
+    second: Pixbattlers Defender Apolonia_1
+  - first:
+      213: 1351855983946418609
+    second: Pixbattlers Defender Apolonia_2
+  - first:
+      213: 2342214428602971735
+    second: Pixbattlers Defender Apolonia_3
+  - first:
+      213: -4862794393938784243
+    second: Pixbattlers Defender Apolonia_4
+  - first:
+      213: -2934893910352365197
+    second: Pixbattlers Defender Apolonia_5
+  - first:
+      213: 2662369169604699247
+    second: Pixbattlers Defender Apolonia_6
+  - first:
+      213: 3385592484032424676
+    second: Pixbattlers Defender Apolonia_7
+  - first:
+      213: -5271940573885204452
+    second: Pixbattlers Defender Apolonia_8
+  - first:
+      213: 6860287870563899094
+    second: Pixbattlers Defender Apolonia_9
+  - first:
+      213: 3977018660917231445
+    second: Pixbattlers Defender Apolonia_10
+  - first:
+      213: -5837123530793382739
+    second: Pixbattlers Defender Apolonia_11
+  - first:
+      213: -2522892414553162522
+    second: Pixbattlers Defender Apolonia_12
+  - first:
+      213: 4460869146046472947
+    second: Pixbattlers Defender Apolonia_13
+  - first:
+      213: -4272874190166032263
+    second: Pixbattlers Defender Apolonia_14
+  - first:
+      213: 1847347726954442089
+    second: Pixbattlers Defender Apolonia_15
+  - first:
+      213: -4694244798916777634
+    second: Pixbattlers Defender Apolonia_16
+  - first:
+      213: -7590740263533721529
+    second: Pixbattlers Defender Apolonia_17
+  - first:
+      213: 3150120635513606639
+    second: Pixbattlers Defender Apolonia_18
+  - first:
+      213: 8609016132941760627
+    second: Pixbattlers Defender Apolonia_19
+  - first:
+      213: 5517965461073656358
+    second: Pixbattlers Defender Apolonia_20
+  - first:
+      213: -8650297296670873782
+    second: Pixbattlers Defender Apolonia_21
+  - first:
+      213: 3880975277300971963
+    second: Pixbattlers Defender Apolonia_22
+  - first:
+      213: 9181344072347383409
+    second: Pixbattlers Defender Apolonia_23
+  - first:
+      213: -2956469060039689868
+    second: Pixbattlers Defender Apolonia_24
+  - first:
+      213: -1260232526458096925
+    second: Pixbattlers Defender Apolonia_25
+  - first:
+      213: -4879344541966249981
+    second: Pixbattlers Defender Apolonia_26
+  - first:
+      213: -4895398000832233519
+    second: Pixbattlers Defender Apolonia_27
+  - first:
+      213: 900617411340847006
+    second: Pixbattlers Defender Apolonia_28
+  - first:
+      213: 2953145829613284322
+    second: Pixbattlers Defender Apolonia_29
+  - first:
+      213: -5867283891251772282
+    second: Pixbattlers Defender Apolonia_30
+  - first:
+      213: -3470858950095166565
+    second: Pixbattlers Defender Apolonia_31
+  - first:
+      213: 2133628098212686461
+    second: Pixbattlers Defender Apolonia_32
+  - first:
+      213: -1152778174529370321
+    second: Pixbattlers Defender Apolonia_33
+  - first:
+      213: 1780943661892094631
+    second: Pixbattlers Defender Apolonia_34
+  - first:
+      213: -3611581157090847660
+    second: Pixbattlers Defender Apolonia_35
+  - first:
+      213: -7039597754908993109
+    second: Pixbattlers Defender Apolonia_36
+  - first:
+      213: -9033427855912665357
+    second: Pixbattlers Defender Apolonia_37
+  - first:
+      213: 8602261824597791955
+    second: Pixbattlers Defender Apolonia_38
+  - first:
+      213: 4396110518741822661
+    second: Pixbattlers Defender Apolonia_39
+  - first:
+      213: 1610152429893426840
+    second: Pixbattlers Defender Apolonia_40
+  - first:
+      213: -6132088077358989875
+    second: Pixbattlers Defender Apolonia_41
+  - first:
+      213: 6418301938617952502
+    second: Pixbattlers Defender Apolonia_42
+  - first:
+      213: 5256796998004473843
+    second: Pixbattlers Defender Apolonia_43
+  - first:
+      213: 7937438446600280581
+    second: Pixbattlers Defender Apolonia_44
+  - first:
+      213: -7669231146051286016
+    second: Pixbattlers Defender Apolonia_45
+  - first:
+      213: 2989324824192464550
+    second: Pixbattlers Defender Apolonia_46
+  - first:
+      213: -632301190040946662
+    second: Pixbattlers Defender Apolonia_47
+  - first:
+      213: 7337806749572972402
+    second: Pixbattlers Defender Apolonia_48
+  - first:
+      213: -8132842631978435251
+    second: Pixbattlers Defender Apolonia_49
+  - first:
+      213: 5099411366132756643
+    second: Pixbattlers Defender Apolonia_50
+  - first:
+      213: 2952138127801448525
+    second: Pixbattlers Defender Apolonia_51
+  - first:
+      213: -8569663717257748528
+    second: Pixbattlers Defender Apolonia_52
+  - first:
+      213: -7841377357362351054
+    second: Pixbattlers Defender Apolonia_53
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 480
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d60d9a583a603c408872c4b80919b3f
+      internalID: 6171756478463703557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 480
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d8b8fe22389a145924f1661cae31eb
+      internalID: -8619683206318261628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 480
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589761c75c13d5349b288ced2e50221c
+      internalID: 1351855983946418609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 480
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4da1c498c5f70645ba203856b56ec09
+      internalID: 2342214428602971735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_4
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 480
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2844d22256cc2841bf7b60625a2387c
+      internalID: -4862794393938784243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_5
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 480
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4907f3f684b23864a92cf5148e5bd506
+      internalID: -2934893910352365197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_6
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 480
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7849d58256de2364ea19fa1c28765b06
+      internalID: 2662369169604699247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_7
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 480
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f1cd2fa8bd8b04990e4bf058217369
+      internalID: 3385592484032424676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_8
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 480
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e34dce0e250b541989e027023d34e8
+      internalID: -5271940573885204452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 384
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca60a5197583fc459b7c68b067ad133
+      internalID: 6860287870563899094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 384
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3aa47421f2a914bb036c2c91602a9e
+      internalID: 3977018660917231445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 384
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba8d31d2984eb741aa89fdf1efd5205
+      internalID: -5837123530793382739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_12
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 384
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c09919b738d835468f80a7ebe0123a2
+      internalID: -2522892414553162522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_13
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 384
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3b26bc311457f4ca4f74e1349c0c1a
+      internalID: 4460869146046472947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_14
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 384
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f6f18140e8b3a4c8f084fee48c7f09
+      internalID: -4272874190166032263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_15
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 384
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613f0ca43853cc644b5db9f361bf46a1
+      internalID: 1847347726954442089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_16
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 384
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1565d4b4d43e01b409dab30105bc0404
+      internalID: -4694244798916777634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_17
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 384
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a5e340fdf3de143883b36fb67439de
+      internalID: -7590740263533721529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 288
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17597de55111ee4aba4d43e76298b9f
+      internalID: 3150120635513606639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 288
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2c4fb950d59e247af956a4b8c5a45b
+      internalID: 8609016132941760627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_20
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 288
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925ecf07eb2a6a94cbe674786144b613
+      internalID: 5517965461073656358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_21
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 288
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18d443d2ceb82c41914a40f1062c16b
+      internalID: -8650297296670873782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_22
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 288
+        width: 71
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb0e563682282b4c84b183db03639e4
+      internalID: 3880975277300971963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_23
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 288
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3b4df53085a6c4e8856d72ad3ff652
+      internalID: 9181344072347383409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_24
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 288
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c215af3f7e9fb46a3819a5b70c1d6d
+      internalID: -2956469060039689868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_25
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 288
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5374c9671c2b14baeaed2460603102
+      internalID: -1260232526458096925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_26
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 288
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57e929f8f2334340a97c82979322dce
+      internalID: -4879344541966249981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 192
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9226e11abb6b5fc49b7246aa79bffe56
+      internalID: -4895398000832233519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_28
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 192
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa989316305b1b34d8fea2a904b7e4d9
+      internalID: 900617411340847006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_29
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 192
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248815675dbdb274d9ff32433ae81d94
+      internalID: 2953145829613284322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_30
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 192
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2368fd735b50c984cb7cdff672c0d552
+      internalID: -5867283891251772282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_31
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 192
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9a876c8472638479d94c2b9bf729f4
+      internalID: -3470858950095166565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_32
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 192
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2922b8c3ca6566b458f567a6d294af72
+      internalID: 2133628098212686461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_33
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 192
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da9f9e5827ac7d4da1adf621516229e
+      internalID: -1152778174529370321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_34
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 192
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f41e24edec5a9418872f40eb62da5b
+      internalID: 1780943661892094631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_35
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 192
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bfa62ea1613434e990a32c05717cf2
+      internalID: -3611581157090847660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fafebe6b59f47c4f97429eb108cef22
+      internalID: -7039597754908993109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f127a5e6c13d3af439c7a47f11564e36
+      internalID: -9033427855912665357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247bb17cc15bddd428b95d6d72f8edbc
+      internalID: 8602261824597791955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_39
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 96
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1461d3b23fcd88a4bad6d029db40eed8
+      internalID: 4396110518741822661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_40
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 96
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cebc04bc6a58046b4c97f475511eba
+      internalID: 1610152429893426840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_41
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 96
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45d65df3c3274c469691bfddf839cea
+      internalID: -6132088077358989875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_42
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 96
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5186d1547734043b1342d05e81d8a2
+      internalID: 6418301938617952502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_43
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 96
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dee59b322a5bb246a8c182db8744184
+      internalID: 5256796998004473843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_44
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 96
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270a56e00c482ac4d86c0db0d3b6ca1a
+      internalID: 7937438446600280581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_45
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecfb3ce934c4c344b388f77d905063e
+      internalID: -7669231146051286016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_46
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acf3c05d5942844cad5906cb739e181
+      internalID: 2989324824192464550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aefb484e3890ae4e94b342697463e41
+      internalID: -632301190040946662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_48
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401581afbfe60214ebd078ca4ff57db8
+      internalID: 7337806749572972402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_49
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e682a9b882bca048be075129d228828
+      internalID: -8132842631978435251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_50
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e104830032b8fa34ba54d055830dcf14
+      internalID: 5099411366132756643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_51
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 0
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823d60c297a53e14090108a089e3be7d
+      internalID: 2952138127801448525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_52
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 0
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305ee99da94cd47468bc22ca29a2eee6
+      internalID: -8569663717257748528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixbattlers Defender Apolonia_53
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 0
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdadfdf5c66e6244e88f31df96f6069f
+      internalID: -7841377357362351054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e0f6c78d2d611d5439a08be16c5fffce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

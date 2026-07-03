@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: 4f6cd9a948f1c1049836287fb763b418
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6617906414040709121
+    second: PixBattlers Stan V2_0
+  - first:
+      213: 2334031332764770844
+    second: PixBattlers Stan V2_1
+  - first:
+      213: 6543019904022830615
+    second: PixBattlers Stan V2_2
+  - first:
+      213: 8101367204009093566
+    second: PixBattlers Stan V2_3
+  - first:
+      213: 8348241721349115923
+    second: PixBattlers Stan V2_4
+  - first:
+      213: 582864562417484888
+    second: PixBattlers Stan V2_5
+  - first:
+      213: -5433562734304434807
+    second: PixBattlers Stan V2_6
+  - first:
+      213: 8124717375748614774
+    second: PixBattlers Stan V2_7
+  - first:
+      213: -8486663426526640160
+    second: PixBattlers Stan V2_8
+  - first:
+      213: 6763850608844748485
+    second: PixBattlers Stan V2_9
+  - first:
+      213: -4063212255276224179
+    second: PixBattlers Stan V2_10
+  - first:
+      213: -1092910853290583246
+    second: PixBattlers Stan V2_11
+  - first:
+      213: 8898971645967082736
+    second: PixBattlers Stan V2_12
+  - first:
+      213: -1187688001513965903
+    second: PixBattlers Stan V2_13
+  - first:
+      213: -1197775450427970249
+    second: PixBattlers Stan V2_14
+  - first:
+      213: -5792724852735949321
+    second: PixBattlers Stan V2_15
+  - first:
+      213: 2872150882641572189
+    second: PixBattlers Stan V2_16
+  - first:
+      213: -456971936762076004
+    second: PixBattlers Stan V2_17
+  - first:
+      213: 8632266541116569147
+    second: PixBattlers Stan V2_18
+  - first:
+      213: -4204623275530838977
+    second: PixBattlers Stan V2_19
+  - first:
+      213: -3643785939674668407
+    second: PixBattlers Stan V2_20
+  - first:
+      213: -5926256853888338073
+    second: PixBattlers Stan V2_21
+  - first:
+      213: 6702691409400952881
+    second: PixBattlers Stan V2_22
+  - first:
+      213: 3121641434548503777
+    second: PixBattlers Stan V2_23
+  - first:
+      213: 2919241457443256710
+    second: PixBattlers Stan V2_24
+  - first:
+      213: -7576675870149976289
+    second: PixBattlers Stan V2_25
+  - first:
+      213: -2809293323740977945
+    second: PixBattlers Stan V2_26
+  - first:
+      213: 8772740093607689007
+    second: PixBattlers Stan V2_27
+  - first:
+      213: 858124877688368613
+    second: PixBattlers Stan V2_28
+  - first:
+      213: -5199077694276436229
+    second: PixBattlers Stan V2_29
+  - first:
+      213: -2768483715169492378
+    second: PixBattlers Stan V2_30
+  - first:
+      213: 8323298486282347746
+    second: PixBattlers Stan V2_31
+  - first:
+      213: 5780929210109808476
+    second: PixBattlers Stan V2_32
+  - first:
+      213: 4182721482888314856
+    second: PixBattlers Stan V2_33
+  - first:
+      213: -5781652280626224389
+    second: PixBattlers Stan V2_34
+  - first:
+      213: -2530645369398532579
+    second: PixBattlers Stan V2_35
+  - first:
+      213: -555258114305158711
+    second: PixBattlers Stan V2_36
+  - first:
+      213: -2567112521007423257
+    second: PixBattlers Stan V2_37
+  - first:
+      213: -1213649325925456992
+    second: PixBattlers Stan V2_38
+  - first:
+      213: -1407026561644417123
+    second: PixBattlers Stan V2_39
+  - first:
+      213: 472655044252771790
+    second: PixBattlers Stan V2_40
+  - first:
+      213: 710646461719742627
+    second: PixBattlers Stan V2_41
+  - first:
+      213: -211202417918630588
+    second: PixBattlers Stan V2_42
+  - first:
+      213: 6008000096734273241
+    second: PixBattlers Stan V2_43
+  - first:
+      213: -6724706467200245582
+    second: PixBattlers Stan V2_44
+  - first:
+      213: -1047361270971263621
+    second: PixBattlers Stan V2_45
+  - first:
+      213: -3431629074284382348
+    second: PixBattlers Stan V2_46
+  - first:
+      213: 3017299258961974421
+    second: PixBattlers Stan V2_47
+  - first:
+      213: 993131442100234307
+    second: PixBattlers Stan V2_48
+  - first:
+      213: 334276882761382064
+    second: PixBattlers Stan V2_49
+  - first:
+      213: 3138027084840110678
+    second: PixBattlers Stan V2_50
+  - first:
+      213: 3051413782689415851
+    second: PixBattlers Stan V2_51
+  - first:
+      213: 1394034247744620859
+    second: PixBattlers Stan V2_52
+  - first:
+      213: 7748046382944798148
+    second: PixBattlers Stan V2_53
+  - first:
+      213: -5860240959503467355
+    second: PixBattlers Stan V2_54
+  - first:
+      213: 558618771588066746
+    second: PixBattlers Stan V2_55
+  - first:
+      213: -6428793812586707202
+    second: PixBattlers Stan V2_56
+  - first:
+      213: 1460103577101682529
+    second: PixBattlers Stan V2_57
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 450
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d17109846c52784fb813a96b263e2cf
+      internalID: 6617906414040709121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 450
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f2c09a9f1864a4d9cb48d283f6d755
+      internalID: 2334031332764770844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_2
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 450
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f606408c77f0342899683d0410b5cd
+      internalID: 6543019904022830615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_3
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 450
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958280e295fa79d40b5a8528e7ba2d5c
+      internalID: 8101367204009093566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_4
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 450
+        width: 103
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3e35f61e969ea43bf938c9c68422c4
+      internalID: 8348241721349115923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_5
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 450
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748957ae125a8e74d9ca67977b63f32a
+      internalID: 582864562417484888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_6
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 450
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3f53f17f16f87468196c8ac53ddbeb
+      internalID: -5433562734304434807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_7
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 450
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04eecfa0579c4084e99080e7062489c4
+      internalID: 8124717375748614774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_8
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 450
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c81fe9cc19fa79478d069cd340f28aa
+      internalID: -8486663426526640160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 360
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4585a8eea2212cc4599d976438ea7b67
+      internalID: 6763850608844748485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 360
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b4bc2720d299f43ab5b164cca37834
+      internalID: -4063212255276224179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_11
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 360
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ce7287a119442498a28662bddf0b84
+      internalID: -1092910853290583246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_12
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 360
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5f1fddecd74574db7b663b914e5bf7
+      internalID: 8898971645967082736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_13
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 360
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d10514ade3a414a9fafb59b59e94bd
+      internalID: -1187688001513965903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_14
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 360
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b935125b9f10d7742b310069fd720d55
+      internalID: -1197775450427970249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_15
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 360
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf2c426c866f884eabc207d8d323049
+      internalID: -5792724852735949321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_16
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 360
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5b2434f104018469040d2b2a9add67
+      internalID: 2872150882641572189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_17
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 360
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99dfaa5d73a71a4cb51390155b0ecca
+      internalID: -456971936762076004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_18
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 270
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57c4ea037eb72146ab4449febee532f
+      internalID: 8632266541116569147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 270
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf11148a7cd53945bdd1e0fdfdb9c6d
+      internalID: -4204623275530838977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_20
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 270
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649320f022d0ec545b1a3a6b16820e3b
+      internalID: -3643785939674668407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_21
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 270
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3956bef8a0cdb9940a09549809321e27
+      internalID: -5926256853888338073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_22
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 270
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7170614df3f7e44880e0f0a15352d7
+      internalID: 6702691409400952881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_23
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 270
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7db4e3e73b5f94ab99840f4cf01d6f
+      internalID: 3121641434548503777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_24
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 270
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792b8177e408de44b83904b7e86fc505
+      internalID: 2919241457443256710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_25
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 333
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f7cb0e3de80264b91d642ec181da48
+      internalID: -7576675870149976289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_26
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 332
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b9515f0edaa3047bc2b62f68b54a6e
+      internalID: -2809293323740977945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_27
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 270
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc5c4fe9dbfc60458203a27982b440c
+      internalID: 8772740093607689007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_28
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 270
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de34d8af44f738c488a239436df206d6
+      internalID: 858124877688368613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_29
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 180
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d237e8f8575d452469d8012ebdeced3f
+      internalID: -5199077694276436229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_30
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 180
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a5510676c0e5e46beaf2922943835f
+      internalID: -2768483715169492378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_31
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 180
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ad38d69e0272740a362d447c670bc4
+      internalID: 8323298486282347746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_32
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 180
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497f0f1ecb2a93741aadcf49a88e3762
+      internalID: 5780929210109808476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_33
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 180
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba89bb8740f5e164e8af904638d02269
+      internalID: 4182721482888314856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_34
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 180
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6c6b88500ce044e8d22dbe204f4bd4
+      internalID: -5781652280626224389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_35
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 180
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc4f3f65c56685419d9903d44c20bf6
+      internalID: -2530645369398532579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_36
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 243
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb26782d0b184244a526c771f99df51
+      internalID: -555258114305158711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_37
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 242
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32980450c6ca7d44c89051eebf47d070
+      internalID: -2567112521007423257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_38
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 180
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0550a77ef2fd444898a41c47e7f5b62
+      internalID: -1213649325925456992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_39
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 180
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9fdb6a88d74b94785e1e17c4f9a1d1
+      internalID: -1407026561644417123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 90
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ee4c67aac0d974fa4abb9ae10e102c
+      internalID: 472655044252771790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_41
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 90
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdfd3b5daa9742459ada0f73312757a
+      internalID: 710646461719742627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_42
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 90
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce14aee44a62ca499beaa334466a305
+      internalID: -211202417918630588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_43
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 90
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5b3850da0e0af4893afd4528703c57
+      internalID: 6008000096734273241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_44
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 90
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115acaea22faf2146bb86763bfa6670e
+      internalID: -6724706467200245582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_45
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 90
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a464ef7eaa4aa144bb3707e78080bba
+      internalID: -1047361270971263621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_46
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 90
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd396f8db6a6b534d8f65e1aeda68b7e
+      internalID: -3431629074284382348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_47
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 90
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d43d5c604542314badf80e2d82e7d61
+      internalID: 3017299258961974421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_48
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 90
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91254ef7add81640b22e6af09750b10
+      internalID: 993131442100234307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_49
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afb62a9c2a8e064184ab1e8d4900574
+      internalID: 334276882761382064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_50
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4323869bd01244e9c511a0e8b565e1
+      internalID: 3138027084840110678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_51
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d113e24100861643adbdd216bc1cf22
+      internalID: 3051413782689415851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_52
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 0
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3428a6203e58e9e4c95cedf3155e5d56
+      internalID: 1394034247744620859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_53
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 0
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c6fe520636da4419313884959a5034
+      internalID: 7748046382944798148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_54
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 0
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08720ec48cc63e547bbca5569455a015
+      internalID: -5860240959503467355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_55
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 0
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66664738827ce2f4eb20f25ca9313fa2
+      internalID: 558618771588066746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_56
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 0
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c140033392fbe0840b3921ed99e6f4d3
+      internalID: -6428793812586707202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixBattlers Stan V2_57
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 0
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfea8f343c3a2d4fbac4001c4f10566
+      internalID: 1460103577101682529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6fb0098638cfb61408da27f4b4a272c0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
