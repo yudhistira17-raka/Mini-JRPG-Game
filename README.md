@@ -13,7 +13,7 @@ This project demonstrates the core gameplay loop of a JRPG at prototype scale: m
 |Feature|Status|Implementation|
 |-|-|-|
 |World map exploration (WASD / Arrow Keys)|✅|`PlayerInput.cs`, `CharacterMovement.cs`|
-|NPC/object interaction (**E** key)|✅|`NPCInteractable.cs`|
+|NPC/object interaction (**E** key / **Space** key)|✅|`NPCInteractable.cs`|
 |Dialogue (single-line \& multi-line sequences)|✅|`SimpleDialogueManager.cs`, `DialogueManager.cs`|
 |Yes/No branching dialogue|✅|`ChoiceDialogueManager.cs`, `SimpleDialogueManager.cs`|
 |In-game cutscene (character moves automatically)|✅|`CutsceneController.cs`|
@@ -22,7 +22,6 @@ This project demonstrates the core gameplay loop of a JRPG at prototype scale: m
 |Global background music|✅|`BGMManager.cs`|
 |Main menu|✅|`MenuManager.cs`|
 
-> Note: the original brief specified the \*\*Space\*\* key for NPC interaction; this implementation uses the \*\*E\*\* key instead — adjust as needed to match the original spec if required.
 
 ## 🏗️ Architecture \& Design Patterns
 
