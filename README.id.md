@@ -13,7 +13,7 @@ Project ini mendemonstrasikan alur gameplay inti sebuah JRPG dalam skala prototi
 |Fitur|Status|Implementasi|
 |-|-|-|
 |Eksplorasi world map (WASD / Arrow Key)|✅|`PlayerInput.cs`, `CharacterMovement.cs`|
-|Interaksi NPC/objek (tombol **E**)|✅|`NPCInteractable.cs`|
+|Interaksi NPC/objek (tombol **E** / tombol **Space**)|✅|`NPCInteractable.cs`|
 |Dialog (single-line \& sequence bertingkat)|✅|`SimpleDialogueManager.cs`, `DialogueManager.cs`|
 |Dialog dengan pilihan Yes/No|✅|`ChoiceDialogueManager.cs`, `SimpleDialogueManager.cs`|
 |In-game cutscene (karakter bergerak otomatis)|✅|`CutsceneController.cs`|
@@ -22,7 +22,7 @@ Project ini mendemonstrasikan alur gameplay inti sebuah JRPG dalam skala prototi
 |Musik latar|✅|`BGMManager.cs`|
 |Main menu|✅|`MenuManager.cs`|
 
-> Catatan: brief awal menyebut tombol \*\*Space\*\* untuk interaksi NPC, namun pada implementasi ini digunakan tombol \*\*E\*\*
+
 
 ## 🏗️ Arsitektur \& Design Pattern
 
