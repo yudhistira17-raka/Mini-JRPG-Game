@@ -34,7 +34,7 @@ public class SimpleDialogueManager : MonoBehaviour
     {
         if (!dialoguePanel.activeSelf) return;
 
-        if (Input.GetKeyDown(KeyCode.E))
+        if (Input.GetKeyDown(KeyCode.E) || Input.GetKeyDown(KeyCode.Space))
         {
             if (isChoiceDialog)
             {
